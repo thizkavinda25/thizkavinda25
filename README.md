@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Thisara Kavinda</h1>
+<h1 align="center">Hi, I'm Thisara Kavinda</h1>
 <h3 align="center">A passionate Mobile App Developer (Flutter)</h3>
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/app-development-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t&label=Profile%20views&color=0e75b6&style=flat" alt="t" /> </p>
 
-- 🔭 I’m currently working on [Weather APP wit API](https://github.com/thizkavinda25/Weather-App-with-Weather-API.git)
+-  I’m currently working on [Weather APP wit API](https://github.com/thizkavinda25/Weather-App-with-Weather-API.git)
 
-- 🌱 I’m currently learning **Flutter, Firebase, React Native**
+-  I’m currently learning **Flutter, Firebase, React Native**
 
-- 📫 How to reach me **thizarakavinda@gmail.com**
+-  How to reach me **thizarakavinda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
