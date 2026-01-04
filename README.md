@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t&label=Profile%20views&color=0e75b6&style=flat" alt="t" /> </p>
 
--  I’m currently working on [Weather APP wit API](https://github.com/thizkavinda25/Weather-App-with-Weather-API.git)
+-  I’m currently working on [Vendor Discover Application](https://github.com/thizkavinda25/Weather-App-with-Weather-API.git)
 
 -  I’m currently learning **Flutter, Firebase, React Native**
 
